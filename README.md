@@ -28,3 +28,12 @@ Para a realização deste trabalho, você deverá propor: um website ou um aplic
 - Protótipo (paper prototype, esboços (sketches), wireframes, modelos no Figma, Draw.io, etc): a prototipação poderá começar com a produção de um protótipo de baixa fidelidade (wireframe) para validação inicial, depois ir evoluindo para um protótipo de alta fidelidade. (5,0 pontos)
 - Descrição do objeto de interação com imagens, screenshots, fotos, especificações técnicas, etc. (1,0 pontos)
 - Plano de Teste com o Usuário (Usabilidade e Experiência) com descrição das tarefas e métricas (tempo, erros, escalas Likert, etc). (2,0 pontos)
+
+
+## Apresentação
+### Médico
+
+### Médico Regulador
+https://drive.google.com/file/d/102b8PQnofiJA21QySy2S5V2Il8i7e9DR/view?usp=sharing
+## Formulário de Usabilidade
+https://docs.google.com/forms/d/e/1FAIpQLSdzqS93HFw-5bbLkkE_D75FDm0Rrkwr6yJWpUYCuPMFtfM7wA/viewform
