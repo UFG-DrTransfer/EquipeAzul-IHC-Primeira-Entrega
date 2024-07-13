@@ -26,7 +26,7 @@ Para a realização deste trabalho, você deverá propor: um website ou um aplic
 - [Personas](https://github.com/UFG-DrTransfer/EquipeAzul-IHC-Primeira-Entrega/blob/main/Persona.pdf) (1,0 ponto) [Personas utilizadas na apresentação do vídeo](https://www.figma.com/design/6od1UO1G0uzINHyXIuuyfo/DR-TRANSFER?node-id=6316-4069&t=nBaBaLWKaEQdVdgb-0)
 - [Cenários e Casos de Uso](https://github.com/UFG-DrTransfer/EquipeAzul-IHC-Primeira-Entrega/blob/main/Cen%C3%A1rios%20e%20Casos%20de%20Uso.pdf) (1,0 ponto)
 - [Protótipo](https://www.figma.com/design/6od1UO1G0uzINHyXIuuyfo/DR-TRANSFER?node-id=5936-483&t=7CMrUwkK1BImCQiq-0)  (paper prototype, esboços (sketches), wireframes, modelos no Figma, Draw.io, etc): a prototipação poderá começar com a produção de um protótipo de baixa fidelidade (wireframe) para validação inicial, depois ir evoluindo para um protótipo de alta fidelidade. (5,0 pontos)
-- Descrição do objeto de interação com imagens, screenshots, fotos, especificações técnicas, etc. (1,0 pontos)
+- Descrição do objeto de interação com imagens, screenshots, fotos, especificações técnicas, etc. (1,0 pontos). *Encontra-se na parte sobre apresentação*
 - Plano de Teste com o Usuário (Usabilidade e Experiência) com descrição das tarefas e métricas (tempo, erros, escalas Likert, etc). (2,0 pontos) [Planejamento de testes](https://docs.google.com/document/d/10XhBqeClMHs39rPTyoktLWgnFOELzD82_i9a1e0R0DE/edit?usp=drive_link)
 
 ## Figma
