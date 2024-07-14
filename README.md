@@ -40,5 +40,11 @@ https://drive.google.com/file/d/102b8PQnofiJA21QySy2S5V2Il8i7e9DR/view?usp=shari
 https://docs.google.com/forms/d/e/1FAIpQLSdzqS93HFw-5bbLkkE_D75FDm0Rrkwr6yJWpUYCuPMFtfM7wA/viewform
 ## Resposta do Formulário
 https://docs.google.com/spreadsheets/d/1USLRZC8akYyucVSfzRIT_NS2ZkY_U6i9SkPWGULpKPI/edit?resourcekey=&gid=53165077#gid=53165077
+## Relatório Maze
+### Médico
+https://app.maze.co/report/Medico-de-Origem/ap71watlykjuybc/intro
+### Médico Regulador
+https://app.maze.co/report/Medico-Regulador/4env4stlyklb28r/intro
+
 
 
